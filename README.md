@@ -1,2 +1,2 @@
-# write-that-down
-Ramblings of a genius lunatic.
+# "Write That Down
+## Ramblings of a genius lunatic.
